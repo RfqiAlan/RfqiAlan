@@ -11,11 +11,11 @@
 <br>
 
 <!-- BADGES -->
-<a href="https://github.com/Kyyneko"><img src="https://img.shields.io/github/followers/Kyyneko?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00D9FF&label=Followers" alt="Followers"/></a>
+<a href="https://github.com/RfqiAlan"><img src="https://img.shields.io/github/followers/RfqiAlan?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00D9FF&label=Followers" alt="Followers"/></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Kyyneko&style=for-the-badge&color=0D1117&labelColor=FF6B6B&label=Visitors" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=RfqiAlan&style=for-the-badge&color=0D1117&labelColor=FF6B6B&label=Visitors" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/Kyyneko"><img src="https://img.shields.io/github/stars/Kyyneko?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=FFD700&label=Stars" alt="Total Stars"/></a>
+<a href="https://github.com/RfqiAlan"><img src="https://img.shields.io/github/stars/RfqiAlan?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=FFD700&label=Stars" alt="Total Stars"/></a>
 
 <br><br>
 
@@ -112,37 +112,37 @@ I believe in writing clean, maintainable code and turning complex problems into 
 <br>
 
 <!-- PROJECT 1 -->
-<a href="https://github.com/Kyyneko/EMOTICA-CODING-CAMP-ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=EMOTICA-CODING-CAMP-ML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
+<a href="https://github.com/RfqiAlan/Indikator-Kinerja-Utama-Universitas-Samudra">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RfqiAlan&repo=Indikator-Kinerja-Utama-Universitas-Samudra&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
 </a>
 &nbsp;
 <!-- PROJECT 2 -->
-<a href="https://github.com/Kyyneko/Sleep-Disorder-Predictor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=Sleep-Disorder-Predictor&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
+<a href="https://github.com/RfqiAlan/RemoteIn-JobPortal">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RfqiAlan&repo=RemoteIn-JobPortal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
 </a>
 
 <br><br>
 
 <!-- PROJECT 3 -->
-<a href="https://github.com/Kyyneko/WEBSTORE-WITH-ML">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=WEBSTORE-WITH-ML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
+<a href="https://github.com/RfqiAlan/SCARE-CC26">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RfqiAlan&repo=SCARE-CC26&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
 </a>
 &nbsp;
 <!-- PROJECT 4 -->
-<a href="https://github.com/Kyyneko/WEBSITE-SEKOLAH">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=WEBSITE-SEKOLAH&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
+<a href="https://github.com/RfqiAlan/WEBSITE-SEKOLAH">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RfqiAlan&repo=WEBSITE-SEKOLAH&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
 </a>
 
 <br><br>
 
 <!-- PROJECT 5 -->
-<a href="https://github.com/Kyyneko/Cinepedia-Mobile-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=Cinepedia-Mobile-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
+<a href="https://github.com/RfqiAlan/Cinepedia-Mobile-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RfqiAlan&repo=Cinepedia-Mobile-App&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
 </a>
 &nbsp;
 <!-- PROJECT 6 -->
-<a href="https://github.com/Kyyneko/AirQualityDashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kyyneko&repo=AirQualityDashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
+<a href="https://github.com/RfqiAlan/AirQualityDashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RfqiAlan&repo=AirQualityDashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" width="49%"/>
 </a>
 
 </div>
@@ -156,31 +156,31 @@ I believe in writing clean, maintainable code and turning complex problems into 
 <div align="center">
 
 <!-- STREAK -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Kyyneko&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=00D9FF33&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF80" alt="GitHub Streak"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=RfqiAlan&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=00D9FF33&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF80" alt="GitHub Streak"/>
 
 <br><br>
 
 <!-- STATS + LANGS -->
-<a href="https://github.com/Kyyneko">
-<img src="https://github-readme-stats.vercel.app/api?username=Kyyneko&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B&ring_color=00D9FF&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" height="195"/>
+<a href="https://github.com/RfqiAlan">
+<img src="https://github-readme-stats.vercel.app/api?username=RfqiAlan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=FF6B6B&ring_color=00D9FF&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" height="195"/>
 </a>
 &nbsp;
-<a href="https://github.com/Kyyneko">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyyneko&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Top Languages" height="195"/>
+<a href="https://github.com/RfqiAlan">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RfqiAlan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&border_radius=15" alt="Top Languages" height="195"/>
 </a>
 
 <br><br>
 
 <!-- ACTIVITY GRAPH -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kyyneko&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity&area_color=00D9FF20&title_color=00D9FF&radius=15" alt="Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RfqiAlan&bg_color=0D1117&color=FFFFFF&line=00D9FF&point=FF6B6B&area=true&hide_border=true&custom_title=📈%20Contribution%20Activity&area_color=00D9FF20&title_color=00D9FF&radius=15" alt="Activity Graph"/>
 
 <br><br>
 
 <!-- SNAKE -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyyneko/Kyyneko/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyyneko/Kyyneko/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Kyyneko/Kyyneko/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RfqiAlan/RfqiAlan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RfqiAlan/RfqiAlan/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RfqiAlan/RfqiAlan/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -248,7 +248,7 @@ I believe in writing clean, maintainable code and turning complex problems into 
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://github.com/Kyyneko">
+<a href="https://github.com/RfqiAlan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40"/>
 </a>
 
@@ -310,7 +310,7 @@ I believe in writing clean, maintainable code and turning complex problems into 
 
 <br>
 
-![](https://hit.yhype.me/github/profile?user_id=Kyyneko)
+![](https://hit.yhype.me/github/profile?user_id=RfqiAlan)
 
 <br>
 
